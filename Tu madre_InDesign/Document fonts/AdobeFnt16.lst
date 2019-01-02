@@ -1,0 +1,90 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cambria-Italic
+FamilyName:Cambria
+StyleName:Italic
+MenuName:Cambria
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Cambria Italic
+WritingScript:Roman
+OutlineFileName:\Cambria Italic.ttf
+DataFormat:sfntData
+FileLength:827080
+FileModTime:1278400713
+NameArray:0,Mac,4,Cambria Italic
+NameArray:0,Win,1,Cambria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cardo-Bold
+FamilyName:Cardo
+StyleName:Bold
+MenuName:Cardo
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Cardo Bold
+WritingScript:Roman
+OutlineFileName:\Cardo-Bold.ttf
+DataFormat:sfntData
+FileLength:348320
+FileModTime:1315357200
+NameArray:0,Mac,18,Cardo Bold
+NameArray:0,Mac,4,Cardo Bold
+NameArray:0,Win,1,Cardo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cardo-Italic
+FamilyName:Cardo
+StyleName:Italic
+MenuName:Cardo
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Cardo Italic
+WritingScript:Roman
+OutlineFileName:\Cardo-Italic.ttf
+DataFormat:sfntData
+FileLength:262868
+FileModTime:1315357200
+NameArray:0,Mac,18,Cardo Italic
+NameArray:0,Mac,4,Cardo Italic
+NameArray:0,Win,1,Cardo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cardo-Regular
+FamilyName:Cardo
+StyleName:Regular
+MenuName:Cardo
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cardo
+WritingScript:Roman
+OutlineFileName:\Cardo-Regular.ttf
+DataFormat:sfntData
+FileLength:400468
+FileModTime:1315357200
+NameArray:0,Mac,18,Cardo
+NameArray:0,Mac,4,Cardo
+NameArray:0,Win,1,Cardo
+%EndFont
+
